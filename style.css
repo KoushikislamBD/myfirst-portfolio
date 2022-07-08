@@ -15,7 +15,7 @@ h1 {
     color: red;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 80px;
 }
@@ -49,4 +49,43 @@ section {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.ress {
+    color: brown;
+}
+
+.gree {
+    color: green;
+}
+
+.red {
+    color: blueviolet;
+
+}
+
+.newitem {
+    width: 50%;
+    padding: 3%;
+    box-shadow: 10px 5px 40px yellow;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.bkimg {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+#green {
+    border-left: 10px gold;
+}
+
+footer {
+    text-align: center;
+}
+
+.RRR {
+    color: rgb(31, 6, 56);
 }
