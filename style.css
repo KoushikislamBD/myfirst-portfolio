@@ -40,13 +40,13 @@ h1 {
 }
 
 .backimg {
-    background-image: url(images/top-banner.png);
+    background-image: url(./images/top-banner.png);
     background-repeat: no-repeat;
 }
 
 .owlimgbk {
 
-    background-image: url(images/dream-bg.png);
+    background-image: url(./images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -84,6 +84,7 @@ h1 {
 
 footer {
     text-align: center;
+
 }
 
 .RRR {
