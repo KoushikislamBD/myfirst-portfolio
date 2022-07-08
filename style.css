@@ -17,6 +17,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 80px;
 }
 
 .halfwidth {
@@ -41,4 +42,11 @@ section {
 .backimg {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.owlimgbk {
+
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
